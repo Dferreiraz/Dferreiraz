@@ -22,6 +22,7 @@ davi@ubuntu:~$ tree ./tech_stack/
 │   └── React
 ├── Back-End/
 │   └── Python (Basic)
+│   └── Node.js
 └── Ferramentas/
     ├── Git & GitHub
     └── VS Code
