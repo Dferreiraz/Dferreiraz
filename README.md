@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Dferreiraz/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=58A6FF&background=0A0A0A&size=22&center=false&vCenter=true&width=800&height=120&lines=davi@ubuntu:~%24+whoami;>+Davi+Roberto+Ferreira;davi@ubuntu:~%24+cat+role.txt;>+Front-End+Dev+%7C+Evoluindo+para+Full+Stack&cursor=true" alt="Terminal Typing Effect">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=58A6FF&background=0A0A0A&size=22&center=false&vCenter=true&width=800&height=120&lines=davi@ubuntu:~%24+whoami;>+Davi+Roberto+De+Almeida+Ferreira;davi@ubuntu:~%24+cat+role.txt;>+Front-End+Dev+%7C+Evoluindo+para+Full+Stack&cursor=true" alt="Terminal Typing Effect">
   </a>
 </div>
 
