@@ -27,6 +27,7 @@ davi@ubuntu:~$ tree ./tech_stack/
     ├── Git & GitHub
     ├── VS Code
     └── Postman
+    └── Docker
 
 davi@ubuntu:~$ cat ./status_atual.md
 
