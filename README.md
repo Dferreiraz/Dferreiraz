@@ -19,14 +19,18 @@ davi@ubuntu:~$ tree ./tech_stack/
 │   ├── HTML5
 │   ├── CSS3
 │   ├── JavaScript
-│   └── React
+│   ├── React
+│   └── Tailwind CSS
 ├── Back-End/
 │   ├── Node.js
 │   └── Python
+├── Banco de Dados/
+│   ├── PostgreSQL 
+│   └── SQLite 
 └── Ferramentas/
     ├── Git & GitHub
     ├── VS Code
-    └── Postman
+    ├── Postman
     └── Docker
 
 davi@ubuntu:~$ cat ./status_atual.md
