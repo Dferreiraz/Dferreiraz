@@ -30,6 +30,7 @@ davi@ubuntu:~$ tree ./tech_stack/
 └── Ferramentas/
     ├── Git & GitHub
     ├── VS Code
+    ├── Vite
     ├── Postman
     └── Docker
 
