@@ -26,7 +26,6 @@ davi@ubuntu:~$ tree ./tech_stack/
 │   └── Python
 ├── Banco de Dados/
 │   ├── PostgreSQL 
-│   └── SQLite 
 └── Ferramentas/
     ├── Git & GitHub
     ├── VS Code
