@@ -20,7 +20,8 @@ davi@ubuntu:~$ tree ./tech_stack/
 │   ├── CSS3
 │   ├── JavaScript
 │   ├── React
-│   └── Tailwind CSS
+│   ├── Tailwind CSS
+│   └── TypeScript
 ├── Back-End/
 │   ├── Node.js
 │   └── Python
@@ -36,13 +37,12 @@ davi@ubuntu:~$ tree ./tech_stack/
 davi@ubuntu:~$ cat ./status_atual.md
 
 Atualmente aprendendo:
-- Node.js (Foco principal no momento!)
-- Criação e consumo de APIs REST
-- Arquitetura de aplicações e Back-End
+- Node.js 
+- TypeScript
 
 Explorando:
-- Inteligência Artificial Generativa
-- Desenvolvimento de Software
+- Inteligência Artificial 
+- JavaScript
 
 Habilidades:
 - Criação de interfaces web responsivas
