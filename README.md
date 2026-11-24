@@ -37,8 +37,8 @@ davi@ubuntu:~$ tree ./tech_stack/
 davi@ubuntu:~$ cat ./status_atual.md
 
 Atualmente aprendendo:
-- Node.js 
 - TypeScript
+- Python
 
 Explorando:
 - Inteligência Artificial 
@@ -50,7 +50,6 @@ Habilidades:
 - Integração de Front-End com APIs
 
 Objetivos:
-- Desenvolver APIs REST completas e robustas
 - Dominar o ecossistema Full Stack
 - Futuramente entrar no universo de Game Development
 
